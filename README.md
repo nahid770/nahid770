@@ -1,6 +1,6 @@
 ![Front-End Developer](https://i.ibb.co/RpTwpjs/Nur-Alam-Nahid.png)
-# Hi there 👋, I'm Nur Alam Nahid
-#### Front-End Developer
+# Hey👋, I'm Nur Alam Nahid
+## Front-End Developer
 
 Hey, this is Nahid from Bangladesh, a passionate web developer who loves to take new challenges and build unique Designs & features. I know HTML5, CSS3, Bootstrap, Tailwind CSS, Javascript (ES6), and React 18, Daisy UI. I know the basic Node JS with Express JS and MongoDB (Database). My dream is to become a NEXT Level Full-stack Developer.
 
