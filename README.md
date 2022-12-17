@@ -20,7 +20,7 @@ Hey, this is Nahid from Bangladesh, a passionate web developer who loves to take
 - ⚡ Fun fact: I don't waste time finding unique things rather I try to make things unique  😎 
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid770&show_icons=true&theme=radical)
 
 
 ![Profile views](https://gpvc.arturio.dev/nahid770)  
