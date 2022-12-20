@@ -35,8 +35,9 @@ Hey, this is Nahid from Bangladesh, a passionate web developer who loves to take
 - 📫 How to reach me: nurnahid70@gmail.com 
 - ⚡ Fun fact: I don't waste time finding unique things rather I try to make things unique  😎 
   
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahid770&show_icons=true&theme=radical)
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nahid770&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahid770&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 ![Profile views](https://gpvc.arturio.dev/nahid770)  
